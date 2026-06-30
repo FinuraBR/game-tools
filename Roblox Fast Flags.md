@@ -10,5 +10,8 @@
   "FIntFRMMaxGrassDistance": "1000",
   "FIntFRMMinGrassDistance": "1000",
   "DFFlagDisableDPIScale": "True",
-  "DFIntDebugDynamicRenderKiloPixels": "8300"
+  "DFIntDebugDynamicRenderKiloPixels": "8300",
+  "FFlagDebugGraphicsPreferD3D11": "True",
+  "FIntGrassMovementReducedMotionFactor": "0",
+  "DFFlagDisableDPIScale": "True"
 }
